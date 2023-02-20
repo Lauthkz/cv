@@ -1,0 +1,60 @@
+body
+{
+    font-family: 'Noto Sans', sans-serif;
+}
+
+#navBarCV
+{
+    background-color: #0E3569;
+}
+
+
+
+#aboutMe
+{
+    padding-top: 100px; 
+    padding-bottom: 70px;
+}
+
+#bigPicture
+{
+    width:60%; padding-bottom: 40px;
+}
+
+#subtitle
+{
+    font-size: 40px; 
+    /*color: white;*/
+}
+
+#aboutMeContent
+{
+    font-size: 25px; 
+    /*color:white;*/
+}
+
+#mySkills
+{
+    padding-top: 170px; 
+    padding-bottom: 70px;
+}
+
+#skillsTitle
+{
+    padding-bottom: 40px;
+}
+
+#College
+{
+    padding-top: 140px;
+}
+
+#collegeTitle
+{
+    padding-bottom: 40px;
+}
+
+ .card-title
+ {
+    font-size: 18px;
+ }
